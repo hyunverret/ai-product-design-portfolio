@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://mewcue-puce.vercel.app"><img src="03-mewcue/docs/images/welcome.png" width="240" alt="MewCue 真实 Welcome 界面" /></a>
   <a href="https://mewcue-puce.vercel.app"><img src="03-mewcue/docs/images/ai-check.png" width="240" alt="MewCue 真实 AI Check 界面与 Demo 入口" /></a>
-  <a href="https://mewcue-puce.vercel.app"><img src="03-mewcue/docs/images/ai-insight.png" width="240" alt="MewCue 真实观察结果、有效分母与48点开关" /></a>
+  <a href="https://mewcue-puce.vercel.app"><img src="03-mewcue/docs/images/ai-insight-cover.png" width="240" alt="MewCue 真实观察结果、有效分母与48点开关（底部裁剪）" /></a>
 </p>
 
 面向猫主人的移动端居家辅助观察 PWA 原型，将照片适用性、FGS 五项面部观察、依据解释与可追溯人工修正串成完整体验。
