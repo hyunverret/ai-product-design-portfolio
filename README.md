@@ -28,7 +28,7 @@
 
 ### 用构图与动效，建立作品的浏览节奏
 
-[![Interactive Portfolio：作者选定的 Jelly 曲面封面](02-interactive-portfolio/assets/jelly.png)](https://portfolio.orbit8907.com/)
+[![Interactive Portfolio：作者选定的首页](02-interactive-portfolio/assets/walkthrough-cover.png)](https://portfolio.orbit8907.com/)
 
 连接建筑、AI 实践与 Creative Coding 的个人交互式作品集。Jelly 曲面封面、Stack 转场、横向索引与展板阅读，让视觉印象自然延伸到作品细节。
 
